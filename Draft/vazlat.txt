@@ -1,1 +1,11 @@
-Vázlat
+Angular Komponensek:
+-navbar
+-footer
+-register
+-login
+-admin
+-infopage
+-mainpage
+-error-page
+-----------------
+le vannak generálva
